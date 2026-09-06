@@ -28,3 +28,7 @@ Pandas analysis of 4,803 movies — cleaned data, engineered features (release y
 ## Author
 
 Sommya Loharuka
+
+## Acknowledgement
+
+This project was inspired by a publicly available YouTube tutorial on data cleaning and analysis with Pandas. All code was written, reviewed, and tested independently to deepen my understanding of data cleaning, feature engineering, and exploratory analysis.
